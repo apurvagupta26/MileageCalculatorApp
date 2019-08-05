@@ -1,0 +1,25 @@
+{
+  "name": "rxjs-learn-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --mode development"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jQuery": "^1.7.4",
+    "jquery": "^3.4.1",
+    "rxjs": "^6.5.2",
+    "rxjs-compat": "^6.5.2",
+    "ts-loader": "^6.0.2",
+    "typescript": "^3.5.1",
+    "webpack": "^4.33.0",
+    "webpack-dev-server": "^3.6.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.2"
+  }
+}
